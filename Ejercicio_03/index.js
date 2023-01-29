@@ -3,7 +3,7 @@ const fs = require('fs');
 
 fs.writeFileSync('./ejemplo.txt', "¡Hola Coders, estoy en un archivo!")
 /*
-    - Primera operación, para escribir un archivo el primero argumento es la ruta y el nombre de nuestro archivo
+    - Primera operación, para escribir un archivo el primer argumento es la ruta y el nombre de nuestro archivo
     - Segunda operación, es el contenido de nuestro archivo
 */
 
